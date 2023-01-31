@@ -3,7 +3,9 @@
  <p> Precisei formatar o computador e perdi todos os exercicios/desafios <p>
 <br>
 <br>
- Abaixo estão os desafios! <br>
 
+ Abaixo estão os: <br>
+<h1> Desafios
 <a href="https://pedrosantosgithub.github.io/htmlcss/Desafios/Desafio%20010/" target="_blank">Desafio 10 <br>
 <a href="https://pedrosantosgithub.github.io/htmlcss/Desafios/Desafio%20011/" target="_blank">Desafio 11<br>
+<h1>
