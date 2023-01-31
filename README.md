@@ -12,5 +12,5 @@
  <p>
 <h1> Exercicios: <h1> <br>
  <p>
-  
+ <a href="https://pedrosantosgithub.github.io/htmlcss/Exercicios/ex023/tabela001.html" target=_blank> Tabelas <br>
  <p>
