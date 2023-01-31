@@ -3,6 +3,6 @@
  Precisei formatar o computador e perdi todos os exercicios/desafios
 
  
-Refiz o Desafio 10 - https://pedrosantosgithub.github.io/htmlcss/Desafios/Desafio%20010/
+Refiz o <a href="https://pedrosantosgithub.github.io/htmlcss/Desafios/Desafio%20010/">Desafio 10
 
 Estou aprendendo a criar sites e agora vou aprender a gerenciar os repositorios
