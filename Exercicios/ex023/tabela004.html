@@ -21,6 +21,8 @@
             border: 1px solid black;
             padding: 10px;
         }
+        a{
+        }
     </style>
 </head>
 <h1>Exercicio de Tabelas</h1>
@@ -31,12 +33,12 @@
                <tr>
                 <th>Grupos</th>
                 <th>Nomes</th>
-                <th colspan="4">Filmes</th>
+                <th colspan="4" scope="colgroup">Filmes</th>
                </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th rowspan="3">Mulheres</th>
+                    <th rowspan="3" scope="rowgroup">Mulheres</th>
                     <td>Ana Maria Santos</td>
                     <td>Alien</td>
                     <td>Rambo</td>
@@ -55,7 +57,7 @@
                     <td>Big hero</td>
                 </tr>
                 <tr>
-                    <th rowspan="3">Homens</th>
+                    <th rowspan="3" scope="rowgroup">Homens</th>
                     <td>Bruno mendonça</td>
                     <td>Intocaveis</td>
                     <td>Amnésia</td>
@@ -74,8 +76,14 @@
                     <td>Toy Story</td>
                 </tr>
             </tbody>
+            <tfoot>
+                <th colspan="4" scope="row">Total</th>
+                <td>1000</td>
+            </tfoot>
     </table>
     <h2>
+        <a href="tabela005.html">Proxima tabela</a>
+        <br>
         <a href="tabela003.html">Tabela anterior</a>
     </h2>
 </body>
