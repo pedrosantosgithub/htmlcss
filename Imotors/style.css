@@ -10,6 +10,7 @@
 body{
     background: url(WallpaperDog-20494363.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     
 
 }
@@ -24,6 +25,7 @@ header{
     color: rgb(138, 136, 136);
 }
 .logo{
+    position: relative;
     display: solid;
     margin: 10px 25px 10px;
     padding-left: 150px;
@@ -34,7 +36,7 @@ nav > ul  {
     gap: 100px;
     font-family: tesla;
     padding-top: 20px;
-    padding-right: 200px;
+    padding-right: 379px;
     text-decoration: none;
 }
 a {
