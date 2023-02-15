@@ -1,0 +1,68 @@
+@charset "UTF-8";
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body{
+    height: 100vh;
+    width: 100vw;
+}
+body {
+    background: url(../pacote-d013/imagens/background-g752d73881_1920.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+main {
+    height: 100vh;
+    position: relative;
+}
+section#tel{
+    background: url(../pacote-d013/imagens/Borda.png) no-repeat;
+    height: 627px;
+    width: 311px;
+    border-radius: ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 200px rgba(132, 8, 134, 0.76);
+    
+}
+iframe#tela {
+    position: relative;
+    top:0px;
+    left: 1px;
+    width: 310px;
+    height: 626px;
+    background-size: cover;
+    box-shadow: inset 0px 0px 150px rgba(0, 123, 255, 0.416);
+}
+section#redes {
+    padding-top: 250px;
+    padding-right: 10px;
+    float: right;
+}
+section#redes img {
+    box-sizing: border-box;
+    display: block;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 0px 10000px rgba(156, 109, 238, 0.974);
+}
+section#redes img:hover{
+    border: 1px solid rgba(162, 0, 255, 0.596);
+    transform: translate(-3px, -3px);
+    box-shadow: 0px 0px 150px rgba(57, 0, 155, 0,416);
+    transition: 1s;
+}
+
+section#redes img:active {
+    transform: scale(95%);
+}
+section#redes a {
+    padding-top: 30px;
+
+}
