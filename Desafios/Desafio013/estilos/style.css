@@ -27,7 +27,7 @@ section#tel{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0px 0px 200px rgba(132, 8, 134, 0.76);
+    box-shadow: 0px 0px 200px rgba(188, 2, 240, 0.628);
     
 }
 iframe#tela {
@@ -41,7 +41,7 @@ iframe#tela {
     box-shadow:  0px 0px 150px rgba(0, 123, 255, 0.416);
 }
 section#redes {
-    padding-top: 250px;
+    padding-top: 0px;
     padding-right: 10px;
     float: right;
 }
@@ -54,9 +54,9 @@ section#redes img {
     box-shadow: 2px 0px 100px rgba(156, 109, 238, 0.974);
 }
 section#redes img:hover{
-    border: 1px solid rgba(162, 0, 255, 0.596);
+    border: 1px solid rgba(255, 255, 255, 0.891);
     transform: translate(-3px, -3px);
-    box-shadow: 0px 0px 150px rgba(57, 0, 155, 0,416);
+    box-shadow: 0px 0px 200px rgb(132, 0, 255);
     transition: 1s;
 }
 
